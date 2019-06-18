@@ -14,14 +14,6 @@ span{
     color:rgb(173, 18, 18);
 }
 
-.textalign{
+.textalign {
     text-align: center;
-}
-
-Button{
-    margin-top: 300px !important;
-    align-items: center;
-    width: 400px !important;
-    height: 100px !important;
-    font-size: 70px !important;
 }
