@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1fj1KT30iFWcKHij1AdqPws81oacqzTsVxna6N0iM68E/
 
 ## Création de Branch
 
-# Attention a ne pas travailler sur Master
+# Attention de ne pas travailler sur Master
 
 En partant de la branch dev 
 
