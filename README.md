@@ -38,4 +38,4 @@ page/...
 
 ```
 
-### Les Merges se feront sur la branch "dev" puis sur "Master" en fin de projet. 
+### Les merges se feront sur la branch "dev" puis sur "master" en fin de projet. 
