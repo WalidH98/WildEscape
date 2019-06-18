@@ -1,5 +1,11 @@
 # WILDESCAPE 
 
+## GoogleDoc du projet
+
+https://docs.google.com/document/d/1fj1KT30iFWcKHij1AdqPws81oacqzTsVxna6N0iM68E/edit
+
+
+
 ```
 create-react-app wild-escape
 npm install --save bootstrap
@@ -12,8 +18,6 @@ npm install --save react-router
 npm install
 ```
 
-
-https://docs.google.com/document/d/1fj1KT30iFWcKHij1AdqPws81oacqzTsVxna6N0iM68E/edit
 
 
 ## Création de Branch
