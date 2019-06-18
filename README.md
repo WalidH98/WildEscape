@@ -10,8 +10,6 @@ npm install --save react-router
 ## Après avoir cloné le repository , faire un :
 ```
 npm install
-ou
-Yarn
 ```
 
 
