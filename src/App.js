@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Acceuil from './components/Acceuil';
+import Router from './components/Router/Router';
+import Navnav from './components/Navnav/Navnav';
 
 function App() {
   return (
-    <div >
-    <Acceuil/>
-    </div>
-  );
+    <React.Fragment>
+      <Navnav />
+      <Router />
+    </React.Fragment>
+  )
 }
 
 export default App;
